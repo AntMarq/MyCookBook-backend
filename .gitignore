@@ -17,5 +17,5 @@
 coverage
 node_modules
 npm-debug.lo
-!server/storage/recipes/*
-!server/storage/cocktails/*
+server/storage/recipes/*
+server/storage/cocktails/*
