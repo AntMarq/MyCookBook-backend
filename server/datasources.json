@@ -1,0 +1,17 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "db",
+    "password": "",
+    "name": "db",
+    "connector": "mongodb",
+    "user": "db"
+  },
+  "storage": {
+    "name": "storage",
+    "connector": "loopback-component-storage",
+    "provider": "filesystem",
+    "root": "./server/storage/"
+  }
+}
